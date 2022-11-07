@@ -1,0 +1,159 @@
+/* Backgroudn Colors */
+
+.bg-purple {
+	background-color:#4645A3;
+}
+
+.bg-overlay-worldmap {
+	background-image: url("https://contacomigo.org/wp-content/uploads/2020/12/dotted-worldmap1.png");
+	background-position: top center;
+	background-repeat: none;
+	background-size:auto;
+}
+
+/* Container -> Estático */
+.container_static{	
+	width: 100vw;
+	height: 700px;
+	background-color: #FFFFFF;
+	
+	display: block;	
+}
+
+/* Container -> Login */
+.container_login{	
+	width: 100vw;
+	height: 100vh;
+	background-color: #E6E8F4;
+	
+	display: block;	
+}
+
+/* Box 1 -> Login / Password / Requests */
+.box_1{		
+    margin-left: 33%;   
+	width: 350px;
+	height: 450px;
+	background-color: white; 
+}
+
+/* Box 2 -> Home */
+.box_2{
+	width: 340px;
+	height: 420px;
+	display: block;
+	float: left;
+	padding-top: 35px;
+	
+	border-style: groove;
+	
+	text-align: center;
+}
+
+/* Box 3 -> Horizontal Cell -> horizontal screen split */
+.box_3{
+	width: 90%;
+	padding-left: 5%;
+	height: 270px;
+	display: block;
+	float: left;
+}
+
+/* Box 4 -> Vertical Cell -> vertical screen split 50% */
+.box_4{
+	width: 45%;
+	display: block;
+	float: left;
+}
+
+/* Box 5 -> Vertical Cell -> vertical screen split 30% */
+.box_5{
+	width: 240px;
+	height: 250px;
+	display: block;
+	float: left;
+}
+
+/* Box 6 -> Status of Portador */
+.box_6{
+	width: 150px;
+	height: 80px;
+	display: block;
+	float: left;
+	
+	border: groove;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 20px;
+}
+
+/* Box 7 -> Horizontal Cell -> horizontal screen split */
+.box_7{
+	width: 90%;
+	padding-left: 5%;
+	height: 110px;
+	display: block;
+	float: left;
+}
+
+/* Cell 1 -> Schedules Information */
+.cell_1{
+	width: 200px;
+	height: 80px;
+	display: block;
+	float: left;
+}
+
+/* Cell 2 -> Schedules Information */
+.cell_2{
+	width: 100%;
+	height: 30px;
+	display: block;
+	float: left;
+}
+
+/* Box Footer -> Login / Forgot Password / Change Submitted */
+.box_footer{	
+    display: block;
+    margin-left: 31%;    	
+}
+
+.link_footer{
+	width: 200px;
+	height: 30px;
+	
+	display: block;
+	float: left;
+}
+
+
+
+/* Horizontal Spacers -> */
+.spacer_1{	height: 10px;}
+
+.spacer_2{	height: 20px;}
+
+.spacer_3{	height: 30px;}
+
+.spacer_4{	height: 40px;}
+
+.spacer_5{	height: 50px;}
+
+.spacer_6{	height: 100px;}
+
+.spacer_7{	height: 150px;}
+
+/* Vertical Spacers -> */
+.vspacer_1{	width: 10px; height: 50px; display:block; float: left;}
+
+.vspacer_2{	width: 20px; height: 50px; display:block; float: left;}
+
+.vspacer_3{	width: 40px; height: 50px; display:block; float: left;}
+
+.vspacer_4{	width: 50px; height: 50px; display:block; float: left;}
+
+.vspacer_5{	width: 100px; height: 100px; display:block; float: left;}
+
+.vspacer_6{	width: 200px; height: 100px; display:block; float: left;}
+
+.vspacer_7{	width: 300px; height: 100px; display:block; float: left;}

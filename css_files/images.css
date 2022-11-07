@@ -1,0 +1,38 @@
+/* Img Boxes -> Home */
+#img_schedule{	
+	width: 130px;
+	padding-top: 50px;
+	padding-bottom: 70px;
+	
+	opacity: 0.6;
+	
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img_register{		
+	width: 167px;
+	padding-top: 40px;	
+	padding-bottom: 60px;
+	
+	opacity: 0.6;
+	
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Login Page / Send Verification Page */
+#img_login{	
+    max-width: 280px;
+    width: 100%;
+}
+
+.img_selected{	
+	width: 200px;
+	
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

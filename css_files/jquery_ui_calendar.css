@@ -1,0 +1,45 @@
+.ui-widget-header {
+	border: 0;
+	border-bottom: 1px solid #ced4da;
+	border-radius:0;
+	background: white;
+	color: #222222;
+	font-weight: normal;
+}
+.ui-widget-header a { color: #222222; }
+
+.ui-widget-content {
+	border-color: #ced4da;
+	padding: 10px;
+}
+
+.ui-state-default, .ui-widget-content .ui-state-default {
+	background: white;
+	border-radius: 3px;
+	border-color: white;
+}
+
+.ui-state-default, .ui-widget-content .ui-state-default:hover {
+	background: #e0deea;
+}
+
+.ui-datepicker-current-day .ui-state-default {
+	background: #0d6efd;
+	border-radius: 3px;
+	color: white;
+	border: 1px solid #0d6efd;
+}
+
+.ui-datepicker-today {
+	background: #0d6efd;
+	border-radius: 3px;
+}
+
+.ui-datepicker th {
+	color: #000;
+}
+
+.ui-datepicker-week-end {
+	color:#adb5bd !important;
+}
+

@@ -1,0 +1,44 @@
+/* Header */
+#header{
+	height: 80px;
+	margin: 0px;
+	
+	display: block;
+}
+
+
+/* Conta Comigo logo */
+#div_logocontacomigo{	
+	padding-top: 15px;
+	padding-left: 20px;
+	
+    display: block;
+    float: left;
+    margin-left: 0;
+    margin-right: auto;
+}
+
+#logo_contacomigo{		
+	height: 50px;
+}
+
+
+/* Name on Header */
+#div_nomeheader{	
+	width: 125px;
+		
+	display: block;
+    float: right;
+}
+
+/* Health Suitcase logo */
+/* #div_logoheader{		
+	padding-top: 25px;
+	padding-right: 35px;
+    display: block;
+    float: right;
+}
+
+#logo_header{
+	width: 30px;
+} */
